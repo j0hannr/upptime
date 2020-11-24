@@ -1,5 +1,7 @@
 # [![Upptime](https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/logo.svg)](https://upptime.js.org)
 
+## [up](https://j0hannr.github.io/upptime/)
+
 <!--start: description-->
 
 **Upptime** (https://upptime.js.org) is the open-source uptime monitor and status page, powered entirely by GitHub Actions and Issues. It's made with 💚 by your friends at [Koj](https://koj.co).
