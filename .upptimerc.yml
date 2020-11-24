@@ -6,15 +6,15 @@ repo: upptime # Your Github repository name
 sites:
   - name: Google
     url: https://www.google.com
-  - name: Wikipedia
+  - name: Arrenberg App
     url: https://arrenberg.app
-  - name: Hacker News
+  - name: Studio Arrenberg
     url: https://arrenberg.studio
-  - name: Broken Site
+  - name: Johann Rohn 
     url: https://johannrohn.de
-  - name: Secret Site
+  - name: Frauenwehe
     url: https://frauenweihe-jetzt.de
-  - name: Secret Site
+  - name: NaSchBeLa
     url: https://naschbela.de
 
 status-website:
