@@ -3,16 +3,16 @@
     "name": "Google",
     "url": "https://www.google.com",
     "slug": "google",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "time": 80
+    "time": 84
   },
   {
     "name": "Arrenberg App",
     "url": "https://arrenberg.app",
     "slug": "arrenberg-app",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "99.38%",
     "time": 747
   },
   {
