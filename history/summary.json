@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 85
+    "time": 86
   },
   {
     "name": "Arrenberg App",
@@ -13,7 +13,7 @@
     "slug": "arrenberg-app",
     "status": "up",
     "uptime": "99.86%",
-    "time": 836
+    "time": 837
   },
   {
     "name": "Studio Arrenberg",
@@ -29,7 +29,7 @@
     "slug": "johann-rohn",
     "status": "up",
     "uptime": "99.86%",
-    "time": 819
+    "time": 816
   },
   {
     "name": "Frauenweihe",
@@ -45,6 +45,6 @@
     "slug": "na-sch-be-la",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1410
+    "time": 1416
   }
 ]
