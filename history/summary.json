@@ -12,8 +12,8 @@
     "url": "https://arrenberg.app",
     "slug": "arrenberg-app",
     "status": "up",
-    "uptime": "99.86%",
-    "time": 836
+    "uptime": "99.87%",
+    "time": 837
   },
   {
     "name": "Studio Arrenberg",
@@ -45,6 +45,6 @@
     "slug": "na-sch-be-la",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1425
+    "time": 1439
   }
 ]
