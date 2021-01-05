@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 84
+    "time": 86
   },
   {
     "name": "Arrenberg App",
@@ -13,7 +13,7 @@
     "slug": "arrenberg-app",
     "status": "up",
     "uptime": "99.89%",
-    "time": 859
+    "time": 861
   },
   {
     "name": "Studio Arrenberg",
@@ -21,22 +21,22 @@
     "slug": "studio-arrenberg",
     "status": "up",
     "uptime": "99.89%",
-    "time": 507
+    "time": 509
   },
   {
     "name": "Johann Rohn",
     "url": "https://johannrohn.de",
     "slug": "johann-rohn",
     "status": "up",
-    "uptime": "99.89%",
-    "time": 825
+    "uptime": "99.90%",
+    "time": 826
   },
   {
     "name": "Frauenweihe",
     "url": "https://frauenweihe-jetzt.de",
     "slug": "frauenweihe",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "time": 786
   },
   {
@@ -45,6 +45,6 @@
     "slug": "na-sch-be-la",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1480
+    "time": 1490
   }
 ]
