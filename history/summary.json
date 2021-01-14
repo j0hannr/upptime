@@ -5,7 +5,7 @@
     "slug": "google",
     "status": "up",
     "uptime": "100.00%",
-    "time": 99
+    "time": 98
   },
   {
     "name": "Arrenberg App",
@@ -13,15 +13,15 @@
     "slug": "arrenberg-app",
     "status": "up",
     "uptime": "99.91%",
-    "time": 848
+    "time": 893
   },
   {
     "name": "Studio Arrenberg",
     "url": "https://arrenberg.studio",
     "slug": "studio-arrenberg",
     "status": "up",
-    "uptime": "99.67%",
-    "time": 489
+    "uptime": "99.68%",
+    "time": 488
   },
   {
     "name": "Johann Rohn",
@@ -37,7 +37,7 @@
     "slug": "frauenweihe",
     "status": "up",
     "uptime": "99.91%",
-    "time": 755
+    "time": 754
   },
   {
     "name": "NaSchBeLa",
@@ -45,6 +45,6 @@
     "slug": "na-sch-be-la",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1548
+    "time": 1553
   }
 ]
