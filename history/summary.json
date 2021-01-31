@@ -27,9 +27,9 @@
     "name": "Johann Rohn",
     "url": "https://johannrohn.de",
     "slug": "johann-rohn",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "time": 809
+    "time": 798
   },
   {
     "name": "Frauenweihe",
@@ -44,7 +44,7 @@
     "url": "https://naschbela.de",
     "slug": "na-sch-be-la",
     "status": "down",
-    "uptime": "99.98%",
+    "uptime": "99.72%",
     "time": 1543
   }
 ]
