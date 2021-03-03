@@ -28,7 +28,7 @@
     "url": "https://johannrohn.de",
     "slug": "johann-rohn",
     "status": "up",
-    "uptime": "95.45%",
+    "uptime": "95.46%",
     "time": 767
   },
   {
@@ -43,8 +43,8 @@
     "name": "NaSchBeLa",
     "url": "https://naschbela.de",
     "slug": "na-sch-be-la",
-    "status": "down",
-    "uptime": "99.68%",
-    "time": 1597
+    "status": "up",
+    "uptime": "99.65%",
+    "time": 1602
   }
 ]
