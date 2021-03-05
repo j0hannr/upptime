@@ -13,7 +13,7 @@
     "slug": "arrenberg-app",
     "status": "up",
     "uptime": "99.96%",
-    "time": 1101
+    "time": 1105
   },
   {
     "name": "Studio Arrenberg",
@@ -28,8 +28,8 @@
     "url": "https://johannrohn.de",
     "slug": "johann-rohn",
     "status": "up",
-    "uptime": "95.50%",
-    "time": 765
+    "uptime": "95.54%",
+    "time": 763
   },
   {
     "name": "Frauenweihe",
@@ -37,7 +37,7 @@
     "slug": "frauenweihe",
     "status": "up",
     "uptime": "99.96%",
-    "time": 735
+    "time": 734
   },
   {
     "name": "NaSchBeLa",
@@ -45,6 +45,6 @@
     "slug": "na-sch-be-la",
     "status": "up",
     "uptime": "99.66%",
-    "time": 1598
+    "time": 1602
   }
 ]
